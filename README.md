@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gervasio
 #### Design and Development
-![Design and Development](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1200%2C461&ssl=1&w=640)
+![Design and Development]
 
 I'm Gervasio from Entre Ríos, Argentina, and i do content on design and development.  I’m currently learning everything about Frontend and Backend technologies.
 
