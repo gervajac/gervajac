@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gervasio
 #### Design and Development
-![Design and Development]
+
 
 I'm Gervasio from Entre Ríos, Argentina, and i do content on design and development.  I’m currently learning everything about Frontend and Backend technologies.
 
